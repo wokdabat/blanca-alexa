@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-xai
+langchain-community
+yt-dlp
+faster-whisper
+gtts
+streamlit-player
+requests
