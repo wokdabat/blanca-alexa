@@ -49,3 +49,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+*.env
+.env*
+secrets.toml
